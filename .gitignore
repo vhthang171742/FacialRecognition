@@ -1,0 +1,4 @@
+models/64x64/
+models/VGG16/
+training_data/images/
+testing_data/
